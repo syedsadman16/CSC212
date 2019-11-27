@@ -27,7 +27,7 @@ Output Format :
 In the int Employee :: calculateTotalSale() function, you must return the Employee's
 total sale (the sum of the values in sales ).
 
-<img src='Images/assign1.png' title='Assignment1' width='' alt='' />
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/assign1.PNG' title='Assignment1' width='' alt='' />
 
 ---
 *Assignment 2*
@@ -56,7 +56,7 @@ Output Format :
 For each pair of i and j values (i.e., for each query), print a single integer denoting the element located at
 index j of the array referenced by a[i]. There should be a total of q lines of output.
 
-<img src='Images/assign2.png' title='Assignment2' width='' alt='' />
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/assign2.PNG' title='Assignment2' width='' alt='' />
 
 ---
 *Assignment 3*
@@ -73,7 +73,7 @@ Output Format :
 Sorted Linked List with no duplicates.
 For example : 12 -> 13 -> 22 -> 42 -> 44 
 
-<img src='Images/assign3.png' title='Assignment3' width='' alt='' />
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/assign3.PNG' title='Assignment3' width='' alt='' />
 
 ---
 *Assignment 4*
@@ -99,18 +99,18 @@ Output Format :
 The code provided in the code editor will use your class template to add/append elements and give the
 output.
 
-<img src='Images/assign4.png' title='Assignment4' width='' alt='' />
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/assign4.PNG' title='Assignment4' width='' alt='' />
 
 ## Notes
 *Pointers*
-<img src='Images/Pointers.png' title='Assignment4' width='' alt='' /> 
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/Pointers.PNG' title='Assignment4' width='' alt='' /> 
 
 ---
 
 *LinkedLists*
-<img src='Images/createList.png' title='Assignment4' width='' alt='' /> 
-<img src='Images/deletebeg.png' title='Assignment4' width='' alt='' /> <img src='Images/Deleteend.png' title='Assignment4' width='' alt='' />
-<img src='Images/linkedSecond.png' title='Assignment4' width='' alt='' />
-<img src='Images/linnkedEnd.png' title='Assignment4' width='' alt='' />
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/createList.PNG' title='Assignment4' width='' alt='' /> 
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/deletebeg.PNG' title='Assignment4' width='' alt='' /> <img src='https://github.com/syedsadman16/CSC212/blob/master/Images/Deleteend.PNG' title='Assignment4' width='' alt='' />
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/linkedSecond.PNG' title='Assignment4' width='' alt='' />
+<img src='https://github.com/syedsadman16/CSC212/blob/master/Images/linnkedEnd.PNG' title='Assignment4' width='' alt='' />
 
 
