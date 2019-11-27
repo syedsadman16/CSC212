@@ -1,7 +1,7 @@
 //==========================================================================================================
 // Name        : Assignment3.cpp
 // Author      : Syed Sadman
-// Assignment  : Dynamic Bags
+// Assignment  : LinkedLists
 // Description : Write a program which takes a Dynamic Listand deletes any duplicate nodes from the list.
 //				 The list is not sorted.
 //==========================================================================================================
